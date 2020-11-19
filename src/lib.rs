@@ -1,5 +1,6 @@
 #![feature(specialization)]
 #![feature(coroutines, coroutine_trait)]
+#![feature(const_fn_floating_point_arithmetic)]
 
 pub extern crate rand;
 
