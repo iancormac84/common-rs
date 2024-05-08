@@ -1,7 +1,5 @@
-#![feature(const_fn)]
-#![feature(box_syntax)]
 #![feature(specialization)]
-#![feature(generators, generator_trait)]
+#![feature(coroutines, coroutine_trait)]
 
 pub extern crate rand;
 
